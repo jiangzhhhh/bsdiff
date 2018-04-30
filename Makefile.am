@@ -1,6 +1,6 @@
 bin_PROGRAMS = bsdiff bspatch
 
-bsdiff_SOURCES = bsdiff.c
+bsdiff_SOURCES = bsdiff.c sais.c
 
 bspatch_SOURCES = bspatch.c
 
